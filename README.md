@@ -18,7 +18,7 @@ Zero Gravity Highway is an immersive text-based space exploration game where you
 - Diverse constellation stories
 - Interactive space journey mechanics
 
-## 🛠 Prerequisites
+## Prerequisites
 - Python 3.7 or higher
 - Required Python modules:
   - `random`
