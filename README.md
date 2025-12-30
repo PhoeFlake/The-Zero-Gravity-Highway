@@ -1,9 +1,9 @@
-# 🐱🚀 The Zero Gravity Highway
+# The Zero Gravity Highway
 
 ## Overview
 Zero Gravity Highway is an immersive text-based space exploration game where you captain a spaceship as a brave feline astronaut! Navigate through the cosmos, uncover constellation mysteries, and embark on an interstellar journey of discovery and wonder.
 
-## 🌟 Game Features
+## Game Features
 
 ### Cosmic Exploration
 - 3D spaceship navigation
@@ -24,7 +24,7 @@ Zero Gravity Highway is an immersive text-based space exploration game where you
   - `random`
   - `time`
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -58,12 +58,12 @@ python main.py
 - Explore various constellations to learn their unique stories
 - Complete trivia to unlock special achievements
 
-## 📁 Project Structure
+## Project Structure
 - `main.py`: Core game logic and user interface
 - `spaceship_game.py`: Spaceship movement and exploration mechanics
 - `constellations_data.py`: Constellation folklore database
 
-## 🌌 Constellation Exploration
+## Constellation Exploration
 Discover fascinating stories about:
 - Orion: The Legendary Hunter
 - Ursa Major: The Great Bear's Legacy
@@ -71,7 +71,7 @@ Discover fascinating stories about:
 - Draco: The Celestial Dragon
 - Scorpius: The Celestial Scorpion
 
-## 🔮 Upcoming Adventures
+## Upcoming Adventures
 Planned enhancements include:
 - Expanded constellation narratives
 - Advanced spaceship interaction mechanics
@@ -79,7 +79,7 @@ Planned enhancements include:
 - Enhanced achievement tracking
 - Potential multiplayer exploration modes
 
-## 🤝 Join the Cosmic Crew
+## Join the Cosmic Crew
 Interested in contributing to Zero Gravity Highway? 
 - Report issues
 - Suggest new features
