@@ -42,7 +42,7 @@ python --version
 python main.py
 ```
 
-## 🎮 Gameplay Guide
+## Gameplay Guide
 
 ### Main Menu Options
 1. **Move Spaceship**: Traverse cosmic dimensions
